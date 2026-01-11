@@ -1,0 +1,18 @@
+You are an expert Machine Learning referee.
+
+Compare the following machine learning models:
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+Compare them on:
+- Accuracy potential
+- Interpretability
+- Training time
+- Inference latency
+- Scalability
+- Overfitting risk
+
+Return the output as a JSON object.
+Do NOT recommend a single best model.
+Remain neutral.
